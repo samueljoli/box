@@ -1,0 +1,8 @@
+[node]
+path = "./node"
+
+[rust]
+path = "./rust"
+
+[haskell]
+path = "./haskell"
